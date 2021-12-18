@@ -2,10 +2,6 @@
 layout: page
 title: Privacy Policy
 include_in_header: false
----
-
-**Last updated**  
-August 1 2019
 
 # Privacy Policy
 Mustafa Eral built the snap math app as a Commercial app. This SERVICE is provided by Mustafa Eral and is intended for use as is.
